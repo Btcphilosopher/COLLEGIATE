@@ -1,0 +1,6 @@
+{
+  "name": "COLLEGIATE",
+  "description": "Production-grade collegiate social network platform and academic directory featuring high-density blue-and-white UI, social graph engine, university network, groups, events, real-time messaging, and low-level C client runtime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
